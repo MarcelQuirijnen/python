@@ -1,0 +1,2 @@
+class Env:
+    COOKIE_SEC = "YOUR COOKIE SECRET KEY"

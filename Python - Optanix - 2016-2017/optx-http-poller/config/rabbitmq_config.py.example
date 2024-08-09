@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+rabbitmq_config = {
+    'host': 'localhost',
+    'port': 5672,
+    'user': '',
+    'password': '',
+    'vhost': '/'
+}
